@@ -1,0 +1,8 @@
+jupyter
+pandas
+seaborn
+plotly
+matplotlib
+yellowbrick
+scikit-learn
+xgboost
