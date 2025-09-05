@@ -1,4 +1,4 @@
-## 🐧👩‍💻 Instrucciones por sistema operativo
+## 💻 Instrucciones por sistema operativo
 
 ### 🔽 1. Clonar el repositorio
 
